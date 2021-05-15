@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GULSHAN GUPTA</h1>
+## <b>Hi <img src="https://github.com/GullyGupta/GullyGupta/blob/main/Hi.gif" width="29px"> , I'm GULSHAN GUPTA</h1></b>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gullygupta&label=Profile%20views&color=0e75b6&style=flat" alt="gullygupta" /> </p>
 <h3 align="center">A passionate Fullstack learner from India</h3>
 <a href="https://www.linkedin.com/in/gulshan-gupta-99a6561a0/">
@@ -18,11 +18,12 @@
 </a>
 <br><br>
 
-<img align="right" src="https://github.com/gaurav639/gaurav639/blob/main/developer.gif" alt="Coder GIF" width="400" height="300">
+<img align="right" src="https://github.com/GullyGupta/GullyGupta/blob/main/developer.gif" alt="Coder GIF" width="400" height="400">
 
 <p align="left"> <a href="https://twitter.com/gulshan1727" target="blank"><img src="https://img.shields.io/twitter/follow/gulshan1727?logo=twitter&style=for-the-badge" alt="gulshan1727" /></a> </p>
+- :telescope: I'm currently studying **BTech in IT 💻**
 
-- 🌱 I’m currently learning **Frontend**
+- :hourglass_flowing_sand: Learning **FRONTEND**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GullyGupta](https://github.com/GullyGupta)
 
