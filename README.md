@@ -13,12 +13,15 @@
 <a href="https://twitter.com/Gulshan1727">
   <img align="left" alt="Gulshan's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="https://www.hackerrank.com/gulshangupta3813">
+  <img align="left" alt="Gulshan's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
 <a href="https://www.codechef.com/users/gully_27">
   <img align="left" alt="Gulshan's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
 <br><br>
 
-<img align="right" src="https://github.com/GullyGupta/GullyGupta/blob/main/developer.gif" alt="Coder GIF" width="400" height="400">
+<img align="right" src="https://github.com/GullyGupta/GullyGupta/blob/main/gully.gif" alt="Coder GIF" width="450" height="400">
 
 <p align="left"> <a href="https://twitter.com/gulshan1727" target="blank"><img src="https://img.shields.io/twitter/follow/gulshan1727?logo=twitter&style=for-the-badge" alt="gulshan1727" /></a> </p>
 - :telescope: I'm currently studying **BTech in IT 💻**
