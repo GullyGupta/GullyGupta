@@ -24,7 +24,7 @@
 <img align="right" src="https://github.com/GullyGupta/GullyGupta/blob/main/gully.gif" alt="Coder GIF" width="450" height="400">
 
 <p align="left"> <a href="https://twitter.com/gulshan1727" target="blank"><img src="https://img.shields.io/twitter/follow/gulshan1727?logo=twitter&style=for-the-badge" alt="gulshan1727" /></a> </p>
-- :telescope: I'm currently studying **BTech in IT 💻**
+  :telescope: I'm currently studying **BTech in IT 💻**
 
 - :hourglass_flowing_sand: Learning **FRONTEND**
 
