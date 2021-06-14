@@ -1,4 +1,5 @@
-## <b>Hi <img src="https://github.com/GullyGupta/GullyGupta/blob/main/Hi.gif" width="29px"> , I'm GULSHAN GUPTA</h1></b>
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+## <b>Hi <img src="https://github.com/GullyGupta/GullyGupta/blob/main/Hi.gif" width="29px">  I'm, <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="light" data-type="HORIZONTAL" data-vanity="gul27" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/gul27?trk=profile-badge">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;GULSHAN GUPTA</a></div></h1></b>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gullygupta&label=Profile%20views&color=0e75b6&style=flat" alt="gullygupta" /> </p>
 <h3 align="center">A passionate Fullstack learner from India</h3>
 <a href="https://www.linkedin.com/in/gulshan-gupta-99a6561a0/">
